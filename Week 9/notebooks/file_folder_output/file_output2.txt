@@ -1,0 +1,7 @@
+
+Folder: ../notebooks/file_folder
+fileone.txt
+filethree.txt
+filetwo.txt
+Folder: ../notebooks/file_folder\.ipynb_checkpoints
+Folder: ../notebooks/file_folder\File_folder_sub_folder
